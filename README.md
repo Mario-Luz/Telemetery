@@ -5,6 +5,7 @@ Este projeto é uma aplicação de publicação de eventos desenvolvida usando N
 Esta aplicação foi desenvolvida com finalidade de cadastrar usuarios:
 
 ### BackEnd
+*  MongoDB
 *  concurrently
 *  cookie-parser
 *  cors
